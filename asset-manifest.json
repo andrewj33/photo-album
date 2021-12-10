@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/photo-plbum/static/css/main.5e8a80b5.chunk.css",
-    "main.js": "/photo-plbum/static/js/main.29e3d8ee.chunk.js",
-    "main.js.map": "/photo-plbum/static/js/main.29e3d8ee.chunk.js.map",
-    "runtime-main.js": "/photo-plbum/static/js/runtime-main.c8705d9d.js",
-    "runtime-main.js.map": "/photo-plbum/static/js/runtime-main.c8705d9d.js.map",
-    "static/js/2.41557d2d.chunk.js": "/photo-plbum/static/js/2.41557d2d.chunk.js",
-    "static/js/2.41557d2d.chunk.js.map": "/photo-plbum/static/js/2.41557d2d.chunk.js.map",
-    "index.html": "/photo-plbum/index.html",
-    "precache-manifest.fec516a1487049ba2b291664ca4a03c6.js": "/photo-plbum/precache-manifest.fec516a1487049ba2b291664ca4a03c6.js",
-    "service-worker.js": "/photo-plbum/service-worker.js",
-    "static/css/main.5e8a80b5.chunk.css.map": "/photo-plbum/static/css/main.5e8a80b5.chunk.css.map",
-    "static/js/2.41557d2d.chunk.js.LICENSE.txt": "/photo-plbum/static/js/2.41557d2d.chunk.js.LICENSE.txt"
+    "main.css": "/photo-album/static/css/main.5e8a80b5.chunk.css",
+    "main.js": "/photo-album/static/js/main.29e3d8ee.chunk.js",
+    "main.js.map": "/photo-album/static/js/main.29e3d8ee.chunk.js.map",
+    "runtime-main.js": "/photo-album/static/js/runtime-main.8995c699.js",
+    "runtime-main.js.map": "/photo-album/static/js/runtime-main.8995c699.js.map",
+    "static/js/2.41557d2d.chunk.js": "/photo-album/static/js/2.41557d2d.chunk.js",
+    "static/js/2.41557d2d.chunk.js.map": "/photo-album/static/js/2.41557d2d.chunk.js.map",
+    "index.html": "/photo-album/index.html",
+    "precache-manifest.9b2938a5a02ba4cb21b4b9dacb1cd7c6.js": "/photo-album/precache-manifest.9b2938a5a02ba4cb21b4b9dacb1cd7c6.js",
+    "service-worker.js": "/photo-album/service-worker.js",
+    "static/css/main.5e8a80b5.chunk.css.map": "/photo-album/static/css/main.5e8a80b5.chunk.css.map",
+    "static/js/2.41557d2d.chunk.js.LICENSE.txt": "/photo-album/static/js/2.41557d2d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c8705d9d.js",
+    "static/js/runtime-main.8995c699.js",
     "static/js/2.41557d2d.chunk.js",
     "static/css/main.5e8a80b5.chunk.css",
     "static/js/main.29e3d8ee.chunk.js"
